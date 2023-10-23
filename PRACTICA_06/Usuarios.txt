@@ -1,0 +1,14 @@
+USUARIO^CONTRASEÑA^GRUPO^ACCION
+Usuario01^Usuario01^Invitados^BAJA
+Usuario02^Usuario02^Invitados^BAJA
+Usuario03^Usuario03^Invitados^BAJA
+Usuario04^Usuario04^Invitados^BAJA
+Usuario05^Usuario05^Invitados^BAJA
+Usuario06^Usuario06^Invitados^BAJA
+Usuario07^Usuario07^Invitados^BAJA
+Usuario08^Usuario08^Invitados^BAJA
+Usuario09^Usuario09^Invitados^BAJA
+Usuario10^Usuario10^Invitados^BAJA
+Usuario11^Usuario11^Invitados^ALTA
+Usuario12^Usuario12^Invitados^ALTA
+Usuario13^Usuario13^Invitados^ALTA
