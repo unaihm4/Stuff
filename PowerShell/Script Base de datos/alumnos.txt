@@ -1,0 +1,5 @@
+DNI^Nombre^Direccion^Ciudad^Provincia^Telefono
+11111111^David Muñoz^C\AnTOLEDOnio Soria,7^Talavera de la Reina^TOLEDO^11111111
+22222222^Julio Agostini^C\Julio Verne,17^Gamonal^TOLEDO^22222222
+33333333^Estefania Gomez^C\Capitán Cortés,28^Talavera de la Reina^TOLEDO^33333333
+44444444^Mario Martín^C\Gamonal,2^PuerTOLEDOllano^Ciudad Real^44444444
